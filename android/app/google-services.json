@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591684205364",
+    "project_id": "trainnerapp-d8678",
+    "storage_bucket": "trainnerapp-d8678.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591684205364:android:4f905409567417801f4361",
+        "android_client_info": {
+          "package_name": "com.example.trainnerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvBQdthTYVn2h8rgnQnyYl87_X-K0sqis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
