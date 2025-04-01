@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1097912803730:android:b4615d85383e5349ba614b",
+        "mobilesdk_app_id": "1:1097912803730:android:4a30c94c4253de29ba614b",
         "android_client_info": {
-          "package_name": "com.company.trainnerapp"
+          "package_name": "com.example.trainnerapp"
         }
       },
       "oauth_client": [],
