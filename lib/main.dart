@@ -17,15 +17,13 @@ void main() async {
     if (kIsWeb) {
       await Firebase.initializeApp(
         options: const FirebaseOptions(
-          apiKey: "AIzaSyAvBQdthTYVn2h8rgnQnyYl87_X-K0sqis",
-          authDomain: "trainnerapp-d8678.firebaseapp.com", 
-          projectId: "trainnerapp-d8678",
-          storageBucket: "trainnerapp-d8678.appspot.com",
-          messagingSenderId: "591684205364",
-          appId: "1:591684205364:android:4f905409567417801f4361",
-        ),
+            apiKey: "AIzaSyDfxGZhfo7VqLRJASqlHnqHxrtiitJ6NbM",
+            authDomain: "trainner-app-1b230.firebaseapp.com",
+            projectId: "trainner-app-1b230",
+            storageBucket: "trainner-app-1b230.firebasestorage.app",
+            messagingSenderId: "1097912803730",
+            appId: "1:1097912803730:web:6e953b11a56572e2ba614b"),
       );
-
     } else {
       await Firebase.initializeApp();
     }
